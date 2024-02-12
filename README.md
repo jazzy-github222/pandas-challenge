@@ -33,3 +33,5 @@ As you embark on this challenge, remember the incredible impact your work can ha
 So roll up your sleeves, dive into the data, and let's make a difference together!
 
 ## Happy Analyzing! 📊✨
+
+![preview-the-image](https://i.pinimg.com/originals/16/d4/a4/16d4a4c5b9b3d351961596f4d3feddf9.png)

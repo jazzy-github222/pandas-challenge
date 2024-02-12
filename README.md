@@ -3,7 +3,6 @@
 ## Introduction  🌟
 Welcome back! It's me again, Jazzy the creator of this code. Glad to see you here! 
 
-
 ## Key Learning Skills 🔑
 
 
@@ -23,7 +22,7 @@ As a Data Scientist there are specific skills that are essential for success. Th
 
 Getting started is easy! Follow these simple steps:
 
-- **Clone the Repository:** Begin by cloning the repository to your local machine. Use the provided link to create your own copy of the project.
+- **Clone the Repository:** Begin by cloning the repository to your local machine. Create your own copy of the project.
 - **Explore the Data:** Dive into the provided dataset and familiarize yourself with the structure and content. This data will be the key to unlocking valuable insights!
 - **Fire up Jupyter Notebook:** Fire up your favorite Jupyter Notebook environment and start coding! Remember, the power of Pandas is at your fingertips.
 - **Analyze and Report:** As you analyze the data, be sure to document your process and findings in a clear and concise manner. Your report should tell a compelling story that guides decision-makers towards informed choices.
